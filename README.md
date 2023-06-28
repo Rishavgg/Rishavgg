@@ -3,17 +3,15 @@
 <h3 align="center">A passionate machine learning enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Sentiment Analysis**
+- 🔭 Currently working on **Sentiment Analysis**
 
-- 🌱 I’m currently learning **Machine Learning, Data Structure and Algorithm.**
+- 🌱 Currently learning **Machine Learning, Data Structure and Algorithm.**
 
 - 💬 Ask me about **Machine Learning Adventures! **
 
 - 📫 How to reach me **rishavdadwal1@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QM2SRlzkiU3_zs0-OnWstGGy6cGZe_fg/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am Funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
