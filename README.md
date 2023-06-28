@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rishavdadwal1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QM2SRlzkiU3_zs0-OnWstGGy6cGZe_fg/view?usp=sharing](https://drive.google.com/file/d/1QM2SRlzkiU3_zs0-OnWstGGy6cGZe_fg/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QM2SRlzkiU3_zs0-OnWstGGy6cGZe_fg/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny😅**
 
