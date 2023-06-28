@@ -1,3 +1,4 @@
+![logo](https://github.com/Rishavgg/Rishavgg/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Rishav</h1>
 <h3 align="center">A passionate machine learning enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
