@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rishav dadwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav dadwal" height="30" width="40" /></a>
 <a href="https://kaggle.com/rishav dadwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishav dadwal" height="30" width="40" /></a>
+<a href="https://medium.com/@rishavdadwal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishavdadwal1" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/_rishav_0._.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rishav_0._.0" height="30" width="40" /></a>
 </p>
  -->
