@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rishavdadwal1@gmail.com**
 
-- 💻Know me more  [Personal Portfolio](https://rishav01.netlify.app/)
+- 💻Know me more  rishav.tech
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
