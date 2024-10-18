@@ -9,7 +9,7 @@
 - 💻 Passionate about Java development, specifically in Spring Boot.
 - 📧 Reach out to me: rishavdadwal1@gmail.com
 
-- 🔭 Currently working on **Sentiment Analysis**
+
 
 ## Learning Journey 📚
 - Actively improving my Data Structures and Algorithms skills.
